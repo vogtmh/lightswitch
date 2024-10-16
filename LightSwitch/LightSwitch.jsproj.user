@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\mavo\Downloads\Torch-WF-256.png</Source>
+    <SmallTileSource>C:\Users\mavo\Downloads\Torch-WF-256.png</SmallTileSource>
+    <MediumTileSource>C:\Users\mavo\Downloads\Torch-WF-256.png</MediumTileSource>
+    <WideTileSource>C:\Users\mavo\Downloads\Torch-WF-256.png</WideTileSource>
+    <LargeTileSource>C:\Users\mavo\Downloads\Torch-WF-256.png</LargeTileSource>
+    <AppIconSource>C:\Users\mavo\Downloads\Torch-WF-256.png</AppIconSource>
+    <SplashScreenSource>C:\Users\mavo\Downloads\Torch-WF-256.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\mavo\Downloads\Torch-WF-256.png</PackageLogoSource>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

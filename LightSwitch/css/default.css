@@ -1,0 +1,19 @@
+﻿body {
+  background-color: black;
+  color: white;
+  font-family: Segoe, Arial, Helvetica, sans-serif;
+}
+
+#content {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#content_table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
